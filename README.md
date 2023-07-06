@@ -1,6 +1,6 @@
 ### My name is Jay. 
 
-I manage teams that write scalable platforms. Most of my time is spent managing teams at Quip/Slack/Salesforce and creating small features in those products.
+I manage teams that write scalable platforms. Most of my time is spent hacking on projects and mentoring engineering leaders.
 
 <!--
 **jdoconnor/jdoconnor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
